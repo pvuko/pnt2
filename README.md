@@ -1,6 +1,6 @@
-# prueba (prueba)
+# prueba (estudiando)
 
-Vamos a hacer una prueba con el naccio
+Estudiando vue.js
 
 ## Install the dependencies
 ```bash
